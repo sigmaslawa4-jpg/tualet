@@ -1,0 +1,10 @@
+{
+  "itemGroup.urbana_tech.main": "Urbana Tech — быт и техника",
+  "block.urbana_tech.toilet": "Унитаз",
+  "block.urbana_tech.router": "Wi-Fi роутер",
+  "block.urbana_tech.tv": "Смарт-телевизор",
+  "block.urbana_tech.computer": "Компьютер",
+  "block.urbana_tech.datacenter": "ИИ дата-центр",
+  "item.urbana_tech.ram": "Оперативная память",
+  "item.urbana_tech.remote": "Пульт телевизора"
+}

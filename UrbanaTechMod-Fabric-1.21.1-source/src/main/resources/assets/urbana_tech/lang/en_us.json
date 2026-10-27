@@ -1,0 +1,10 @@
+{
+  "itemGroup.urbana_tech.main": "Urbana Tech",
+  "block.urbana_tech.toilet": "Toilet",
+  "block.urbana_tech.router": "Wi-Fi Router",
+  "block.urbana_tech.tv": "Smart TV",
+  "block.urbana_tech.computer": "Computer",
+  "block.urbana_tech.datacenter": "AI Data Center",
+  "item.urbana_tech.ram": "RAM Module",
+  "item.urbana_tech.remote": "TV Remote"
+}
