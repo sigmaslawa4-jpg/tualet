@@ -32,7 +32,8 @@ public class UrbanaTechMod implements ModInitializer {
         RegistryKey<Block> blockKey = RegistryKey.of(RegistryKeys.BLOCK, id);
         RegistryKey<Item> itemKey = RegistryKey.of(RegistryKeys.ITEM, id);
         Registry.register(Registries.BLOCK, blockKey, block);
-        Registry.register(Registries.ITEM, itemKey, new BlockItem(block, new Item.Settings().registryKey(itemKey)));
+
+Registry.register(Registries.ITEM, itemKey, new BlockItem(block, new Item.Settings()));
         return block;
     }
 
